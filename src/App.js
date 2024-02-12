@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I am nalla senathipathi good boy       
         </a>
       </header>
     </div>

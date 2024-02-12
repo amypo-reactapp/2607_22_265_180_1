@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am nalla senathipathi good boy       
+          I am nallasenathipathi good boy       
         </a>
       </header>
     </div>
